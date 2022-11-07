@@ -1,7 +1,18 @@
 # Entry 1
-##### X/X/XX
+##### 11/7/2022
 
-Text
+### Content
+
+
+### Sources
+
+
+
+### EDP
+
+
+
+### Skills
 
 [Next](entry02.md)
 
