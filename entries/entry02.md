@@ -6,6 +6,23 @@ I have learned a lot about my tool. I learned how to create a score system where
 
 Now to add a score system to my game I first need to go to [scene properties](https://user-images.githubusercontent.com/73482933/207411670-1169fe78-1840-4d7f-a41f-6cd2df7e6ccf.png) <br>
 
+
+
+
+
+
+
+### EDP
+
+
+
+
+
+
+
+### Skills
+One skill I need to use is 
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
