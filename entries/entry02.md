@@ -15,21 +15,15 @@ And finally I learned how add lives using another [Youtube tutorial](https://www
 Then I will make a scenes variable called `lives` and set its value to 3. Now when the player collides or hits the slime, not only does the player's position get set back to the beginning of the platform, `lives` decreases by 1 and `life3` is now hidden showing an `emptyHeart`. `life2` hides when `lives` becomes 1 and `life3` hides when `lives` become `1`. [Image](https://user-images.githubusercontent.com/73482933/208225684-fc5869ea-1aac-4c71-ad55-58b63646a5a4.png).
 <br>
 
-This is what I newly learned. Later on during winter break I would like to add a game over scene and continue watching the videos posted on GDevelop.
-
-
+My goal for winter break is finish Gdvelop's beginner course (https://www.youtube.com/playlist?list=PL3YlZTdKiS89Kj7IQVPoNElJCWrjZaCC8) and go on to the intermediate course (https://www.youtube.com/playlist?list=PL3YlZTdKiS89LrdlHcHo5vePN3O3UhGwm). I will also try to plan out the questions we should put for the first three units and make a rock, paper, scissors mini game which I found a tutorial for: https://www.youtube.com/watch?v=3f2Wpog-ZwI.
 
 
 ### EDP
-
-
-
-
-
+The Engineering Design Process we are at are Step 3 (brainstrom possible solutions) and Step 4 (plan the most promising solution). After I learn everything I need to learn to make the game, me and my group mates can now plan what questions we should ask, where the minigames should be placed, how we can make the game interactive and plan it out one step at a time. I also want to add some obstacles to each level so it makes the game more engaging which I will also need to plan out with my groupmates; maybe there will be slime enemies, maybe the player has to break through some walls to get to the answer choices, etc.
 
 
 ### Skills
-One skill I need to use is 
+One skill I need to use is time management because we still need to learn a lot more about our tool. There are still 2 and a half playlists to go through and I still need to learn how to create different levels. This means that I will need to watch around 3-5 videos in a week and budget my time wisely so me and my group mates would have at least 1-2 months of coding our game. Another skill I need to use is consideration because we want to have a balance of Java questions and mini games so our game is both educational and fun. We also need to consider what questions to put for each unit, how to organize the questions, how to put the answer choices and what kind of way the user can interact with the question choices.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
