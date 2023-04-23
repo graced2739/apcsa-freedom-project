@@ -2,7 +2,7 @@
 ##### 4/22/22
 
 ### Content
-After finishing the Space Shooter game, to finish my MYP, I just needed to create the main menu. To do that I first created a new scene and named it `Main Menu`. After that, I just selected a background from the internet and created all objects for each game: <br>
+After finishing the Space Shooter game, to finish my MYP, I just needed to create the main menu. I briefly watched this video tutorial: https://www.youtube.com/watch?v=k2J784esdkc, to know how to create a basic menu page. To start, I first created a new scene and named it `Main Menu`. After that, I just selected a background from the internet and created all objects for each game: <br>
 ![image](https://user-images.githubusercontent.com/73482933/233810099-9537e13c-fb0a-4ac3-9b7a-838611412ad6.png) <br>
 As you can see here, me and my partners currently have 4 games. I created Space Shooter and the Wizard Game (see Blog 3), while my partner Bonnie created Flappy Bird and my partner Yuki created Dinosaur Game. After creating the appearance of the main menu, me and my partners wrote code so that players can click on the game they want to play and be transported to that specific game. Here is the code: <br>
 ![image](https://user-images.githubusercontent.com/73482933/233810307-05c54d2b-12ec-445d-9c04-152699dfb5b7.png)
@@ -14,7 +14,7 @@ Space Shooter's menu:
 Space Shooter:
 ![image](https://user-images.githubusercontent.com/73482933/233810482-110df6f3-3344-45c0-b6ea-511fc2665004.png) <br>
 As seen here, Space Shooter has a different code because I want Space Shooter to be able to quit back to the Space Shooter menu if the player wants to or accidentally clicks on a level they already played. <br>
-That is basically it, our MVP is completed. For the future to make our game more polished, I'm thinking of adding more to the Wizard game or just delete it and create another game such as a Rhythm Game or help my partners with any bugs that are coming up unexpectedly.
+That is basically it, our MVP is completed. For the future to make our game more polished, I'm thinking of adding more to the Wizard game or just delete it and create another game such as a Rhythm Game or help my partners with any bugs that are coming up unexpectedly. I would also like to add on to what I coded when I made the main menu by allowing players to pause the game. Once again I can use this tutorial: https://www.youtube.com/watch?v=k2J784esdkc and watch the entirety of it to know how to code a pause menu. 
 
 ### Skills
 The two skills I used was collaboration and communication. Due to the fact that my partners worked on their game in their own project space, I needed to let them know that before our MVP, they have to transfer all their objects, background, and code to the main project titled `SEP12`. We also communicated when they decided to transfer their project as they had to transfer one by one or else the project would not save properly. By doing this, their projects were successfully transferred. We then also collaborated on the main menu with them writing code for their game and me writing the code for my game.
