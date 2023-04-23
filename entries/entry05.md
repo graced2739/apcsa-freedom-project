@@ -14,13 +14,13 @@ Space Shooter's menu:
 Space Shooter:
 ![image](https://user-images.githubusercontent.com/73482933/233810482-110df6f3-3344-45c0-b6ea-511fc2665004.png) <br>
 As seen here, Space Shooter has a different code because I want Space Shooter to be able to quit back to the Space Shooter menu if the player wants to or accidentally clicks on a level they already played. <br>
-That is basically it, our MVP is completed. For the future to make our game more polished, I'm thinking of adding more to the Wizard game or just delete it and create another game such as a Rythm Game or help my partners with any bugs that are coming up unexpectedly.
+That is basically it, our MVP is completed. For the future to make our game more polished, I'm thinking of adding more to the Wizard game or just delete it and create another game such as a Rhythm Game or help my partners with any bugs that are coming up unexpectedly.
 
 ### Skills
-The two skills I used was collaboration and communication. Due to the fact that my partners worked on their game in their own project space, I needed to let them know that before our MVP, they would have to transfer all their objects, background, and code to the main project titled `SEP12`. We also communicated when they decided to transfer their project as they had to go one by one or else the project would not save properly. By doing this, their projects were successfully transferred. We then also collaborated on the main menu with them writing code for their game and me writing for my game.
+The two skills I used was collaboration and communication. Due to the fact that my partners worked on their game in their own project space, I needed to let them know that before our MVP, they have to transfer all their objects, background, and code to the main project titled `SEP12`. We also communicated when they decided to transfer their project as they had to transfer one by one or else the project would not save properly. By doing this, their projects were successfully transferred. We then also collaborated on the main menu with them writing code for their game and me writing the code for my game.
 
 ### EDP
-The two Engineering Design Process I'm at are Improve as Needed and Communicate the Results. Due to the fact that my MVP is finished, I just need to add more details to the games I create or even create another one and make sure that that one does not have amy bugs. After being satisified with everything that I have done, and checking that my partners are also completely done with their parts, we can finally generate a new link to our game and present it to anyone who wants to see it.
+The two Engineering Design Process steps I'm at are Improve as Needed and Communicate the Results. Due to the fact that my MVP is finished, I just need to add more details to the games I create or even create another one and make sure that that one does not have amy bugs. After being satisified with everything that I have done, and checking that my partners are also completely done with their parts, we can finally generate a new link to our game and present it to anyone who wants to see it.
 
 
 
