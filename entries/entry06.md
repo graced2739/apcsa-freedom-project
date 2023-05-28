@@ -1,8 +1,8 @@
 # Entry 6
-##### X/X/XX
+##### 5/28/23
 
-Text
-
+### Content
+After months of working on my project, me and partners have finally finished and had presented to our fellow classmates and SEP Expo judges. To prepare for our Expo presentation, we wrote an elevator pitch available to read here: [Elevator Pitch](https://docs.google.com/document/d/11L6lubKArRVktctMQd-8nBjUtdLkPGOFyCbbxm2b9yE/edit?usp=sharing). While presenting our elevator pitch to the judges, we were able to convey the majority of what we wrote, though it would've been more beneficial if we had written our names next to the sentences that each one of us had to speak. This created some pauses and stutters in between saying our elevator pitch. We also forgot to ask the judges if they had any questions about our project and whether they were interested in seeing how we made the project. As the first one to present to the judges, I felt as if we didn't have enough practice and could've done a lot better. And instead of the three judges going to us one by one, we had all three of them come up to us at once, which made me nervous and confused when there were no more judges after they left. But i overall, I think the judges really enjoyed our project and havd fun playing our games. After the judges judged our project, students came to see our project. We did much better presenting our elevator pitch, but sometimes before we finsihed, people seemed disinterested in what we had to say and just wanted to play the games. So when we clearly stated that they should read the instructions for the games, most people didn't and so were confused on how to play the game. This frustrated me aa little, but overall, I am impressed with how our project turned out and happy that people seemed to enjoy playing the games. I also liked how my partners had a piece a paper which recorded people's high scores for each game. It was a nice touch to our presentation and made the games more engaging and exciting with some friendly competition. 
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
