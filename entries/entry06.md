@@ -7,10 +7,9 @@ After months of working on my project, me and partners have finally finished and
 For our in class presentation, we made a Google Slide presentation showing the process of creating our project, the tool we used, and the takeaways we had. We did pretty good, we projected our voices and didn't go fast or slow. Our hook was just right for our project and we explained how our tool Gdevelop worked and the key features of it we used to make our project. The only suggestion we got was to not show all of our code on Gdevelop as it was too small to read. This meant that I should've just included code snippets and put them on the Google Slide and explained them there instead of scrolling through all of my code on Gdevelop. And when explaining concepts in Gdevelop such as behaviors, I could've provided visuals on the slides so people will better understand what I am talking about. Before our presentation, I wrote down what to say on the speaker notes of the slides that I will be presenting. Even though I didn't say everything word for word, it was helpful nonetheless and made it so I wouldn't lose my thoughts or forget what I will be saying. I will continue to do that when I have presentations in the future. Here is the link to our presentation: [Presentation](https://docs.google.com/presentation/d/18SfQWYNKy7jik_4suVJHl-IVrZS0XAEGqawleiPXsUg/edit?usp=sharing).
 
 ### EDP
-
-
-
-
+The step of the EDP we are at is step 8, the last step, Communicate the Results. To present our finalized project, me and my partners worked together on a Google Slide to present Gdevelop, the tool we used, the most important concepts in Gdevelop, and the main parts of the games we've made. I believed that objects, behaviors, variables, and timers were the most important concepts in Gdevelop, so we had a slide explaining each of them. We also had a demo link where people can play the games we made. The majority of the presentation was on how we made our game with each of us explaining the main part of our game creation. We also added slides to talk about how we created the menu and instructions pages. And finally we added a conclusion slide, wrapping up our presentation and provided resources players can use to start learning Gdevelop and potentially create their own games.  
+### Skills
+The two skills I used was collaboration and communication with these two skills going hand in hand when we were working on our presentation. 
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
