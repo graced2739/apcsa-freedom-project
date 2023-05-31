@@ -21,7 +21,7 @@ Our project has positive and/or negative impacts on these categories: Global, So
 * Social: <br>
   *  Individual: Provides entertainment for individuals who are bored, want to find a way to destress or when they want to take a small break. A negative impact is that individuals may play the game for too long and neglect the work that they should be doing.
   *  Relationships: People can have friendly competition with their friends to see who has the highest scores. It may have a negative impact if players get too obsessive over beating their friends' high scores and may even cause fights.
-*  Economic: <br>
+* Economic: <br>
   *  Jobs: Our game can be distracting for workers. They may be playing the game when they are supposed to be working which creates issues in their jobs and may even get them fired in the worst case scenario. 
 
 ---
